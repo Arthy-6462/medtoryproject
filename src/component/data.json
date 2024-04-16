@@ -1,0 +1,63 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "tab": "Dolo"
+    },
+    {
+      "id": "2",
+      "tab": "Avil"
+    },
+    {
+      "id": "3",
+      "tab": "Syndopa"
+    },
+    {
+      "id": "4",
+      "tab": "Amoxicillin"
+    },
+    {
+      "id": "5",
+      "tab": "Carbamazepine"
+    },
+    {
+      "id": "6",
+      "tab": "Cefixime"
+    },
+    {
+      "id": "7",
+      "tab": "Ciprofloxacin"
+    },
+    {
+      "id": "8",
+      "tab": "Gabapentin"
+    },
+    {
+      "id": "9",
+      "tab": "Gentamicin"
+    },
+    {
+      "id": "10",
+      "tab": "Glimepiride"
+    },
+    {
+      "id": "11",
+      "tab": "metformin"
+    }
+  ],
+  "postproduct": [],
+  "ApprovalData": [
+    {
+      "product": "Syndopa",
+      "quantity": "5",
+      "id": 1
+    }
+  ],
+  "RejectedData": [
+    {
+      "product": "Carbamazepine",
+      "quantity": "7",
+      "id": 1
+    }
+  ]
+}
