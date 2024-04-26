@@ -144,10 +144,7 @@ setApprovedData(approvedserverData.data);
       });
     }
   };
-  // const handlePurchaseorders=()=>{
-
-
-  // }
+ 
   
   useEffect(() => {
     getProductData(); // Fetch initial data on component mount

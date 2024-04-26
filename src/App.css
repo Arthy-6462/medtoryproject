@@ -3,6 +3,21 @@ body{
   padding:0;
   box-sizing: border-box;
 }
+/* =============login form================= */
+.form-container{
+  /* background-color: burlywood; */
+}
+.main_form{
+  width:400px;
+  height: 300px;
+  padding:50px;
+  background-color: rgb(244, 244, 243);
+  position: absolute;
+  left:50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  border-radius: 10px;
+}
 .form{
 
   width:400px;

@@ -47,17 +47,9 @@
   ],
   "postproduct": [],
   "ApprovalData": [
-    {
-      "product": "Syndopa",
-      "quantity": "5",
-      "id": 1
-    }
+   
   ],
   "RejectedData": [
-    {
-      "product": "Carbamazepine",
-      "quantity": "7",
-      "id": 1
-    }
+    
   ]
 }

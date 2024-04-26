@@ -1,6 +1,6 @@
 
 import React from "react";
-import { UseProduct } from "./usecontext/Productcontext";
+import { UseProduct } from '../component/inventorycontext/Productcontext';
 import Swal from "sweetalert2";
 import Supplierpurchaseorder from "./Supplierpurchaseorder";
 

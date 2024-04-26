@@ -13,7 +13,7 @@ const Login = () => {
 console.log(data)
     const handleLogin = (e) => {
         e.preventDefault();
-        alert(data.username)
+        alert(`login successful, welcome ${data.username}`)
         if(data.username==='Arthy'&& data.password==='123@'){
             navigate('/purchaseordercreation');
 
@@ -22,8 +22,8 @@ console.log(data)
         }
     }
         return (
-            <div className='container'>
-                <form onSubmit={handleLogin}>
+            <div className='form-container'>
+                <form onSubmit={handleLogin} className='main_form'>
                     <h3 className='text-center'>Login</h3>
                     <div className='formcontent'>
                         <div className='mb-4'>

@@ -1,7 +1,7 @@
 import React from "react";
 import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
-import { UseProduct } from "./usecontext/Productcontext";
+import { UseProduct } from '../component/inventorycontext/Productcontext';
 import Approvaldepartment from "./Approvaldepartment";
 
 const Purchaseordercreation = () => {
